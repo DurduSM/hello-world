@@ -1,2 +1,2 @@
 # hello-world
-newbie repository
+newbie repository, just trying to learn to code some stuff :)
